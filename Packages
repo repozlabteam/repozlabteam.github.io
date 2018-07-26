@@ -1,0 +1,15 @@
+Package: vn.zlabteam.cydiazlab
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Zlab Team
+Depends: firmware (>= 11.0), cy+cpu.arm
+Filename: /vn.zlabteam.cydiazlab_1.0_iphoneos-arm.deb
+Size: 2511744
+MD5sum: 46893ab068bc9529553901a859a9c866
+SHA1: ac4ef4637f89a039629303fc901447628c0abcbc
+SHA256: 6e7208a39b400bb1ce33264d30bc216c66d1fc6adcac81a52a08c1efbb552cb8 
+Section: Tweak
+Priority: optional
+Description: zlab team mod cydia 11
+Author: Yangcheesen
+Name: Cydia Zlab
